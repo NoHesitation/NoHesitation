@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NoHesitation
+- 👀 I’m interested in LUA
+- 🌱 I’m currently learning LUA Scripting (Multi Theft Auto)
